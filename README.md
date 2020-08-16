@@ -8,5 +8,5 @@ Install ArgoCD and create example application.
 
 ## Usage
 ``` sh
-make setup
+helmfile sync
 ```
