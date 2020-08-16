@@ -1,0 +1,5 @@
+inCluster: true
+project: default
+path: .
+repoURL: https://github.com/ue-noma/argocd-study.git
+targetRevision: master
