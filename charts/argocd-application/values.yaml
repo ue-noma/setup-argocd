@@ -1,0 +1,6 @@
+inCluster: true
+cluster: {}
+project: default
+path: .
+repoURL: {}
+targetRevision: HEAD
